@@ -64,6 +64,7 @@ div.row-container > :nth-child(2){
 .label{
     width: 30%;
     height: 100px;
+    box-shadow:  0 0 2px 2px rgba(0, 0, 0, 0.5);
 }
 
 img{
