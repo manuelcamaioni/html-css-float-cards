@@ -9,3 +9,13 @@
     display: table;
     clear: both;
 }
+
+main, header{
+    width: 80%;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+.top-text{
+    text-align: center;
+}
