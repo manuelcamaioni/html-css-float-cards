@@ -65,6 +65,7 @@ div.row-container > :nth-child(2){
     width: 30%;
     height: 100px;
     box-shadow:  0 0 2px 2px rgba(0, 0, 0, 0.5);
+    background-color: #0F0E17;
 }
 
 .img-container{
@@ -73,14 +74,12 @@ div.row-container > :nth-child(2){
 }
 
 img{
-    width: 100%;
     height: 100%;
 }
 
 .info-label{
     width: 70%;
     height: 100%;
-    background-color: #0F0E17;
     color: white;
 }
 
